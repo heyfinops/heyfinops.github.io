@@ -1,0 +1,17 @@
+# Bundler cache
+.bundle
+_site
+vendor
+Gemfile.lock
+
+# Jekyll cache
+.jekyll-cache
+.jekyll-metadata
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
