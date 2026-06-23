@@ -12,6 +12,9 @@ Gemfile.lock
 .vscode/
 .idea/
 
+# Kiro
+.kiro/
+
 # OS
 .DS_Store
 Thumbs.db
